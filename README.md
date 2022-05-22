@@ -1,0 +1,2 @@
+This is the README document
+To Run, run the SHORTCUT, not the .cmd file, or press Ctrl + Shift + F3 and your computer will show the Blue Screen of Death a.k.a that thing that everybody loves. (sarcasm) Have Fun! ;)
